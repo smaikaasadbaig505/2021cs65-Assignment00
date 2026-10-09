@@ -2,8 +2,9 @@
 using namespace std;
 
 int main() {
-    cout << "Name: Ammar Faroooq" << endl;
-    cout << "Roll Number: 2021CS65" << endl;
+    cout << "Name: Smaika Asad Baig" << endl;
+    cout << "Roll Number: L1F25BSCS0505" << endl;
     cout << "Section: C9" << endl;
+    cout << "My first github account!"<< endl;
     return 0;
 }
